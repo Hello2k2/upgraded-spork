@@ -1,0 +1,19 @@
+Để chạy dược code trợ lí ảo python này bạn cần thặc hiện những việc sau:
+B1:Tải và giải nén file troliao-python.zip
+Link download:
+https://drive.google.com/file/d/16xnH_e22fAizFcalHGqmdCuAXB6ngfjE/view?usp=sharing
+-Pass giải nén là:1234
+-và giải nén bằng công cụ winrar
+Đặc biệt:Chỉ có thể chạy con trợ lí ảo này trên win 8.1 trở lên.
+B2: cài đặt python 3.8 trở lên (nếu máy tính của bạn chạy 32bit thì cài bản 32,nếu máy tính của bạn chạy 64bit
+thì cài bản 64 Mình sẽ gửi luôn file cài đặt trong này)
+B3:Chạy file module.bat để máy tính cài đặt 1 số thư viện cần thiết.
+Lưu ý: 
+-Trong bước này, bạn cần phải đợi cho việc cài thư viện đc diễn ra suôn sẻ.
+-không tự ý thoát ra
+-khi cài xong thì chương trình command prompt sẽ tự thoát.
+B4:Chạy file troliao.py và tận hưởng con trợ lí ảo này.
+Mọi thắc mắc xin liên hệ qua Zalo
+Zalo:0332163557
+Nếu anh/chị thấy con trợ lí ảo này hay thì mọi người share code này cho các diễn đàn IT giúp mình.
+Và mình cảm ơn các bạn rất nhiều❤❤❤
